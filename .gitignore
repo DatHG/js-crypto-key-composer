@@ -1,5 +1,8 @@
 node_modules
 npm-debug.log*
 coverage
-lib/
-es/
+.babelrc
+.editorconfig
+.eslintrc.json
+.travis.yml
+.package-lock.json
